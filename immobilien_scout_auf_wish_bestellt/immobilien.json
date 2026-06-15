@@ -1,0 +1,352 @@
+{
+    "Immo_01": {
+        "Name": "Immo_01",
+        "Adresse": "Hauptstraße 1, Berlin",
+        "Fläche": 85,
+        "Preis": 320000,
+        "Status": "zu verkaufen"
+    },
+    "Immo_02": {
+        "Name": "Immo_02",
+        "Adresse": "Bahnhofstraße 12, Hamburg",
+        "Fläche": 120,
+        "Preis": 450000,
+        "Status": "verkauft"
+    },
+    "Immo_03": {
+        "Name": "Immo_03",
+        "Adresse": "Lindenweg 5, München",
+        "Fläche": 95,
+        "Preis": 510000,
+        "Status": "zu verkaufen"
+    },
+    "Immo_04": {
+        "Name": "Immo_04",
+        "Adresse": "Goethestraße 8, Köln",
+        "Fläche": 70,
+        "Preis": 280000,
+        "Status": "verkauft"
+    },
+    "Immo_05": {
+        "Name": "Immo_05",
+        "Adresse": "Parkallee 5, Frankfurt",
+        "Fläche": 110,
+        "Preis": 600000,
+        "Status": "zu verkaufen"
+    },
+    "Immo_06": {
+        "Name": "Immo_06",
+        "Adresse": "Dorfstraße 22, Stuttgart",
+        "Fläche": 88,
+        "Preis": 310000,
+        "Status": "verkauft"
+    },
+    "Immo_07": {
+        "Name": "Immo_07",
+        "Adresse": "Seestraße 14, Leipzig",
+        "Fläche": 130,
+        "Preis": 390000,
+        "Status": "zu verkaufen"
+    },
+    "Immo_08": {
+        "Name": "Immo_08",
+        "Adresse": "Ringstraße 9, Dresden",
+        "Fläche": 75,
+        "Preis": 260000,
+        "Status": "verkauft"
+    },
+    "Immo_09": {
+        "Name": "Immo_09",
+        "Adresse": "Wiesenweg 11, Hannover",
+        "Fläche": 100,
+        "Preis": 340000,
+        "Status": "zu verkaufen"
+    },
+    "Immo_10": {
+        "Name": "Immo_10",
+        "Adresse": "Birkenstraße 6, Nürnberg",
+        "Fläche": 92,
+        "Preis": 370000,
+        "Status": "verkauft"
+    },
+    "Immo_11": {
+        "Name": "Immo_11",
+        "Adresse": "Hauptstraße 2, Berlin",
+        "Fläche": 80,
+        "Preis": 300000,
+        "Status": "zu verkaufen"
+    },
+    "Immo_12": {
+        "Name": "Immo_12",
+        "Adresse": "Bahnhofstraße 14, Hamburg",
+        "Fläche": 125,
+        "Preis": 470000,
+        "Status": "verkauft"
+    },
+    "Immo_13": {
+        "Name": "Immo_13",
+        "Adresse": "Lindenweg 7, München",
+        "Fläche": 98,
+        "Preis": 520000,
+        "Status": "zu verkaufen"
+    },
+    "Immo_14": {
+        "Name": "Immo_14",
+        "Adresse": "Goethestraße 10, Köln",
+        "Fläche": 72,
+        "Preis": 290000,
+        "Status": "verkauft"
+    },
+    "Immo_15": {
+        "Name": "Immo_15",
+        "Adresse": "Parkallee 5, Frankfurt",
+        "Fläche": 115,
+        "Preis": 610000,
+        "Status": "zu verkaufen"
+    },
+    "Immo_16": {
+        "Name": "Immo_16",
+        "Adresse": "Dorfstraße 24, Stuttgart",
+        "Fläche": 90,
+        "Preis": 315000,
+        "Status": "verkauft"
+    },
+    "Immo_17": {
+        "Name": "Immo_17",
+        "Adresse": "Seestraße 16, Leipzig",
+        "Fläche": 135,
+        "Preis": 400000,
+        "Status": "zu verkaufen"
+    },
+    "Immo_18": {
+        "Name": "Immo_18",
+        "Adresse": "Ringstraße 11, Dresden",
+        "Fläche": 78,
+        "Preis": 265000,
+        "Status": "verkauft"
+    },
+    "Immo_19": {
+        "Name": "Immo_19",
+        "Adresse": "Wiesenweg 13, Hannover",
+        "Fläche": 105,
+        "Preis": 350000,
+        "Status": "zu verkaufen"
+    },
+    "Immo_20": {
+        "Name": "Immo_20",
+        "Adresse": "Birkenstraße 8, Nürnberg",
+        "Fläche": 94,
+        "Preis": 380000,
+        "Status": "verkauft"
+    },
+    "Immo_21": {
+        "Name": "Immo_21",
+        "Adresse": "Hauptstraße 3, Berlin",
+        "Fläche": 83,
+        "Preis": 305000,
+        "Status": "zu verkaufen"
+    },
+    "Immo_22": {
+        "Name": "Immo_22",
+        "Adresse": "Bahnhofstraße 16, Hamburg",
+        "Fläche": 128,
+        "Preis": 480000,
+        "Status": "verkauft"
+    },
+    "Immo_23": {
+        "Name": "Immo_23",
+        "Adresse": "Lindenweg 9, München",
+        "Fläche": 102,
+        "Preis": 530000,
+        "Status": "zu verkaufen"
+    },
+    "Immo_24": {
+        "Name": "Immo_24",
+        "Adresse": "Goethestraße 12, Köln",
+        "Fläche": 74,
+        "Preis": 295000,
+        "Status": "verkauft"
+    },
+    "Immo_25": {
+        "Name": "Immo_25",
+        "Adresse": "Parkallee 7, Frankfurt",
+        "Fläche": 118,
+        "Preis": 620000,
+        "Status": "zu verkaufen"
+    },
+    "Immo_26": {
+        "Name": "Immo_26",
+        "Adresse": "Dorfstraße 26, Stuttgart",
+        "Fläche": 93,
+        "Preis": 320000,
+        "Status": "verkauft"
+    },
+    "Immo_27": {
+        "Name": "Immo_27",
+        "Adresse": "Seestraße 18, Leipzig",
+        "Fläche": 138,
+        "Preis": 410000,
+        "Status": "zu verkaufen"
+    },
+    "Immo_28": {
+        "Name": "Immo_28",
+        "Adresse": "Ringstraße 13, Dresden",
+        "Fläche": 80,
+        "Preis": 270000,
+        "Status": "verkauft"
+    },
+    "Immo_29": {
+        "Name": "Immo_29",
+        "Adresse": "Wiesenweg 15, Hannover",
+        "Fläche": 108,
+        "Preis": 360000,
+        "Status": "zu verkaufen"
+    },
+    "Immo_30": {
+        "Name": "Immo_30",
+        "Adresse": "Birkenstraße 10, Nürnberg",
+        "Fläche": 96,
+        "Preis": 390000,
+        "Status": "verkauft"
+    },
+    "Immo_31": {
+        "Name": "Immo_31",
+        "Adresse": "Hauptstraße 4, Berlin",
+        "Fläche": 86,
+        "Preis": 310000,
+        "Status": "zu verkaufen"
+    },
+    "Immo_32": {
+        "Name": "Immo_32",
+        "Adresse": "Bahnhofstraße 18, Hamburg",
+        "Fläche": 130,
+        "Preis": 490000,
+        "Status": "verkauft"
+    },
+    "Immo_33": {
+        "Name": "Immo_33",
+        "Adresse": "Lindenweg 11, München",
+        "Fläche": 105,
+        "Preis": 540000,
+        "Status": "zu verkaufen"
+    },
+    "Immo_34": {
+        "Name": "Immo_34",
+        "Adresse": "Goethestraße 14, Köln",
+        "Fläche": 76,
+        "Preis": 300000,
+        "Status": "verkauft"
+    },
+    "Immo_35": {
+        "Name": "Immo_35",
+        "Adresse": "Parkallee 9, Frankfurt",
+        "Fläche": 120,
+        "Preis": 630000,
+        "Status": "zu verkaufen"
+    },
+    "Immo_36": {
+        "Name": "Immo_36",
+        "Adresse": "Dorfstraße 28, Stuttgart",
+        "Fläche": 95,
+        "Preis": 325000,
+        "Status": "verkauft"
+    },
+    "Immo_37": {
+        "Name": "Immo_37",
+        "Adresse": "Seestraße 20, Leipzig",
+        "Fläche": 140,
+        "Preis": 420000,
+        "Status": "zu verkaufen"
+    },
+    "Immo_38": {
+        "Name": "Immo_38",
+        "Adresse": "Ringstraße 15, Dresden",
+        "Fläche": 82,
+        "Preis": 275000,
+        "Status": "verkauft"
+    },
+    "Immo_39": {
+        "Name": "Immo_39",
+        "Adresse": "Wiesenweg 17, Hannover",
+        "Fläche": 110,
+        "Preis": 370000,
+        "Status": "zu verkaufen"
+    },
+    "Immo_40": {
+        "Name": "Immo_40",
+        "Adresse": "Birkenstraße 12, Nürnberg",
+        "Fläche": 98,
+        "Preis": 400000,
+        "Status": "verkauft"
+    },
+    "Immo_41": {
+        "Name": "Immo_41",
+        "Adresse": "Hauptstraße 5, Berlin",
+        "Fläche": 88,
+        "Preis": 315000,
+        "Status": "zu verkaufen"
+    },
+    "Immo_42": {
+        "Name": "Immo_42",
+        "Adresse": "Bahnhofstraße 20, Hamburg",
+        "Fläche": 133,
+        "Preis": 500000,
+        "Status": "verkauft"
+    },
+    "Immo_43": {
+        "Name": "Immo_43",
+        "Adresse": "Lindenweg 13, München",
+        "Fläche": 108,
+        "Preis": 550000,
+        "Status": "zu verkaufen"
+    },
+    "Immo_44": {
+        "Name": "Immo_44",
+        "Adresse": "Goethestraße 16, Köln",
+        "Fläche": 78,
+        "Preis": 305000,
+        "Status": "verkauft"
+    },
+    "Immo_45": {
+        "Name": "Immo_45",
+        "Adresse": "Parkallee 11, Frankfurt",
+        "Fläche": 122,
+        "Preis": 640000,
+        "Status": "zu verkaufen"
+    },
+    "Immo_46": {
+        "Name": "Immo_46",
+        "Adresse": "Dorfstraße 30, Stuttgart",
+        "Fläche": 97,
+        "Preis": 330000,
+        "Status": "verkauft"
+    },
+    "Immo_47": {
+        "Name": "Immo_47",
+        "Adresse": "Seestraße 22, Leipzig",
+        "Fläche": 142,
+        "Preis": 430000,
+        "Status": "zu verkaufen"
+    },
+    "Immo_48": {
+        "Name": "Immo_48",
+        "Adresse": "Ringstraße 17, Dresden",
+        "Fläche": 84,
+        "Preis": 280000,
+        "Status": "verkauft"
+    },
+    "Immo_49": {
+        "Name": "Immo_49",
+        "Adresse": "Wiesenweg 19, Hannover",
+        "Fläche": 112,
+        "Preis": 380000,
+        "Status": "zu verkaufen"
+    },
+    "Immo_50": {
+        "Name": "Immo_50",
+        "Adresse": "Birkenstraße 14, Nürnberg",
+        "Fläche": 100,
+        "Preis": 410000,
+        "Status": "verkauft"
+    }
+}
